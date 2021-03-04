@@ -24,7 +24,7 @@ Project Files:
 3) Machine Learning Classification (GenrePrediction.ipynb)
 
 Credits:
-1) Aditya Tornekar
-2) Shreyas Sadagopan
-3) Rishabh Upadhye
-4) Nisha Rangnani
+1) Shreyas Sadagopan
+2) Aditya Tornekar
+4) Rishabh Upadhye
+5) Nisha Rangnani
